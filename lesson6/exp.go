@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"validate"
+	"kld_course/lesson6/validate"
 )
 
 func main() {
